@@ -33,4 +33,6 @@ class GachaTests: XCTestCase {
         }
     }
     
+    print("nyoki")
+    
 }
