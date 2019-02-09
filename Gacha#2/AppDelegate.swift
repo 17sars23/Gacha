@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  Gacha
+//  Gacha#2
 //
-//  Created by kawagishi on 2018/02/04.
-//  Copyright © 2018年 juna Kawagishi. All rights reserved.
+//  Created by 川岸樹奈 on 2019/02/09.
+//  Copyright © 2019年 juna.Kawagishi. All rights reserved.
 //
 
 import UIKit
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
